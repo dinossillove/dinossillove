@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @dinossillove
-- 👀 I’m interested in full-stack
+- 👋 Hi, I’m Aisyah, aka Cia
 - 🌱 I’m currently learning basic hehee
   
 <!---
